@@ -55,8 +55,8 @@ mean-variance-std-calculator/
 ├── README.md                  # You're here!
 └── .gitignore                 # To ignore system/config files
 ## 🔗 Links
-▶️ Gitpod Workspace: [Add your Gitpod link here]
-🐙 GitHub Repository: https://github.com/<your-username>/mean-variance-std-calculator
+▶️ Gitpod Workspace: https://freecodecam-boilerplate-yo9hmx9se60.ws-us118.gitpod.io/
+🐙 GitHub Repository:  https://github.com/Devikonni/Mean-Variance-Standard-Deviation-Calculator-with-Python/tree/main
 
 ## 📬 About Me
 Hi, I'm Konni Devi, passionate about transforming data into actionable insights!
