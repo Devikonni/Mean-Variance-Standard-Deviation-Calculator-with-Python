@@ -1,8 +1,5 @@
 # 📊  Mean-Variance-Standard-Deviation-Calculator-with-Python
-A Python project that calculates mean, variance, standard deviation, min, max, and sum for rows, columns, and the flattened version of a 3x3 matrix using NumPy. Built as part of freeCodeCamp’s Data Analysis with Python course.
-
-
-This project is part of the [freeCodeCamp - Data Analysis with Python](https://www.freecodecamp.org/learn) certification. It uses **NumPy** to compute statistical measures such as **mean**, **variance**, **standard deviation**, **min**, **max**, and **sum** on a 3x3 matrix.
+A Python project  is part of the [freeCodeCamp - Data Analysis with Python](https://www.freecodecamp.org/learn) certification. It uses **NumPy** to compute statistical measures such as **mean**, **variance**, **standard deviation**, **min**, **max**, and **sum** on a 3x3 matrix.
 
 ---
 
