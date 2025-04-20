@@ -31,8 +31,7 @@ A Python project  is part of the [freeCodeCamp - Data Analysis with Python](http
 ## 🧪 How to Run
 
 Clone the repo:
-
-```bash
+ bash
 git clone https://github.com/<your-username>/mean-variance-std-calculator.git
 cd mean-variance-std-calculator
  
