@@ -39,8 +39,8 @@ cd mean-variance-std-calculator
 
 Install dependencies:
 
-```bash
-pip install numpy
+
+pip install numpy```
 
 
 ##  Run the script:
