@@ -35,9 +35,19 @@ Clone the repo:
 ```bash
 git clone https://github.com/<your-username>/mean-variance-std-calculator.git
 cd mean-variance-std-calculator
-# Run the script:
-# Run the unit tests:
+ 
+
+Install dependencies:
+
+```bash
+pip install numpy
+
+
+##  Run the script:
+python calculator.py
+## Run the unit tests:
 python -m unittest test_calculator.py
+
 ## 🗂️ Project Structure
 
 mean-variance-std-calculator/
