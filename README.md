@@ -35,3 +35,25 @@ Clone the repo:
 ```bash
 git clone https://github.com/<your-username>/mean-variance-std-calculator.git
 cd mean-variance-std-calculator
+Run the script:
+Run the unit tests:
+python -m unittest test_calculator.py
+## 🗂️ Project Structure
+
+mean-variance-std-calculator/
+├── calculator.py              # Core logic for mean, variance, and other statistics
+├── test_calculator.py         # Unit tests to validate the calculations
+├── README.md                  # You're here!
+└── .gitignore                 # To ignore system/config files
+## 🔗 Links
+▶️ Gitpod Workspace: [Add your Gitpod link here]
+🐙 GitHub Repository: https://github.com/<your-username>/mean-variance-std-calculator
+
+## 📬 About Me
+Hi, I'm Konni Devi, passionate about transforming data into actionable insights!
+Feel free to reach out if you'd like to collaborate or review the project:
+
+📧 Email: devikonni022@gmail.com
+
+📱 Phone: +91-9392605650
+
